@@ -1,0 +1,9 @@
+transformers
+peft
+accelerate
+bitsandbytes
+langchain
+langchain-huggingface
+duckduckgo-search
+gradio
+torch
